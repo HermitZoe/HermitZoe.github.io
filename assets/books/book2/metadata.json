@@ -1,0 +1,7 @@
+{
+    "id": "book2",
+    "title": "深入理解计算机系统",
+    "author": "Randal E. Bryant & David R. O'Hallaron",
+    "files": ["cover.svg", "summary.txt"],
+    "license": "示例占位（仅供演示）"
+}

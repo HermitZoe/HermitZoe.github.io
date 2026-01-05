@@ -1,0 +1,7 @@
+{
+    "id": "book1",
+    "title": "小王子",
+    "author": "安托万·德·圣-埃克苏佩里",
+    "files": ["cover.svg", "summary.txt"],
+    "license": "示例占位（仅供演示）"
+}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900">
+  <rect width="100%" height="100%" fill="#FFEBCC"/>
+  <text x="50%" y="45%" font-size="36" text-anchor="middle" fill="#333">小王子</text>
+  <text x="50%" y="55%" font-size="20" text-anchor="middle" fill="#666">安托万·德·圣-埃克苏佩里</text>
+</svg>

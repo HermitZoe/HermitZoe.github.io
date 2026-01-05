@@ -1,0 +1,7 @@
+{
+    "id": "book3",
+    "title": "JavaScript权威指南",
+    "author": "David Flanagan",
+    "files": ["cover.svg", "summary.txt"],
+    "license": "示例占位（仅供演示）"
+}

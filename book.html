@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>书籍详情</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+</head>
+
+<body>
+    <header class="site-header">
+        <h1>书籍详情</h1>
+        <p class="tagline"><a href="/">返回首页</a></p>
+    </header>
+    <main style="max-width:800px;margin:2rem auto;padding:0 1rem;">
+        <div id="detail"></div>
+    </main>
+    <footer class="site-footer">© 2026 图书资源分享</footer>
+    <script>
+        function qs(name) {
+            return new URLSearchParams(location.search).get(name)
+        }
+        async function show() {
+            const id = qs('id');
+            const res = await fetch('/books.json');
+            const books = await res.json();
+            const b = books.find(x => x.id === id);
+            const container = document.getElementById('detail');
+            if (!b) { container.innerHTML = '<p>未找到该书。</p>'; return }
+            container.innerHTML = `
+        <article style="display:flex;gap:1rem;flex-wrap:wrap">
+          <img src="${b.cover}" alt="${b.title}" style="width:260px;height:360px;object-fit:cover;border-radius:6px">
+          <div style="flex:1">
+            <h2>${b.title}</h2>
+            <div class="meta">${b.author} · ${(b.tags || []).join(' / ')}</div>
+            <p style="margin:1rem 0">${b.desc}</p>
+            <p><a class="btn" href="${b.link}" target="_blank">下载/查看资源</a></p>
+          </div>
+        </article>`;
+        }
+        show();
+    </script>
+</body>
+
+</html>

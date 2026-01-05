@@ -1,0 +1,42 @@
+[
+    {
+        "id": "book1",
+        "title": "小王子",
+        "author": "安托万·德·圣-埃克苏佩里",
+        "desc": "一部关于成长与爱的寓言，适合各年龄阅读。",
+        "cover": "/assets/books/book1/cover.svg",
+        "resourceFolder": "/assets/books/book1/",
+        "tags": ["文学", "童话"],
+        "link": "https://zh.wikipedia.org/zh-cn/小王子"
+    },
+    {
+        "id": "book2",
+        "title": "深入理解计算机系统",
+        "author": "Randal E. Bryant & David R. O'Hallaron",
+        "desc": "计算机系统原理与实践，适合进阶读者。",
+        "cover": "/assets/books/book2/cover.svg",
+        "resourceFolder": "/assets/books/book2/",
+        "tags": ["计算机", "教材"],
+        "link": "https://csapp.cs.cmu.edu/"
+    },
+    {
+        "id": "book3",
+        "title": "JavaScript权威指南",
+        "author": "David Flanagan",
+        "desc": "全面的 JavaScript 参考与实战指南。",
+        "cover": "/assets/books/book3/cover.svg",
+        "resourceFolder": "/assets/books/book3/",
+        "tags": ["编程", "JavaScript"],
+        "link": "https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/"
+    },
+    {
+        "id": "book4",
+        "title": "活着",
+        "author": "余华",
+        "desc": "中国当代小说经典，讲述普通人的命运。",
+        "cover": "/assets/books/book4/cover.svg",
+        "resourceFolder": "/assets/books/book4/",
+        "tags": ["文学", "小说"],
+        "link": "https://zh.wikipedia.org/zh-cn/活着_(余华小说)"
+    }
+]

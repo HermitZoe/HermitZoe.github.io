@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900">
+  <rect width="100%" height="100%" fill="#FFF7E6"/>
+  <text x="50%" y="45%" font-size="30" text-anchor="middle" fill="#2B2B2B">JavaScript权威指南</text>
+  <text x="50%" y="55%" font-size="16" text-anchor="middle" fill="#444">David Flanagan</text>
+</svg>

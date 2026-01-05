@@ -1,0 +1,7 @@
+{
+    "id": "book4",
+    "title": "活着",
+    "author": "余华",
+    "files": ["cover.svg", "summary.txt"],
+    "license": "示例占位（仅供演示）"
+}

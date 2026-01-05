@@ -1,0 +1,9 @@
+{
+    "id": "book3",
+    "title": "JavaScript权威指南",
+    "author": "David Flanagan",
+    "desc": "全面的 JavaScript 参考与实战指南。",
+    "tags": ["编程", "JavaScript"],
+    "files": ["cover.svg", "summary.txt", "download.txt"],
+    "note": "示例资源，下载文件为占位文本。"
+}

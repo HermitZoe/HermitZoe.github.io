@@ -1,1 +1,1 @@
-《JavaScript权威指南》示例摘要：全面的 JavaScript 参考与实战（示例数据）。
+《JavaScript权威指南》示例摘要：全面覆盖 JavaScript 语言与实践要点（示例文本）。

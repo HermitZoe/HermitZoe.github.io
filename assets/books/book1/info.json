@@ -1,0 +1,9 @@
+{
+    "id": "book1",
+    "title": "小王子",
+    "author": "安托万·德·圣-埃克苏佩里",
+    "desc": "一部关于成长与爱的寓言，适合各年龄阅读。",
+    "tags": ["文学", "童话"],
+    "files": ["cover.svg", "summary.txt", "download.txt"],
+    "note": "示例资源，下载文件为占位文本。"
+}

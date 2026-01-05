@@ -6,8 +6,14 @@
         "desc": "一部关于成长与爱的寓言，适合各年龄阅读。",
         "cover": "/assets/books/book1/cover.svg",
         "resourceFolder": "/assets/books/book1/",
+        "info": "/assets/books/book1/info.json",
+        "files": {
+            "cover": "/assets/books/book1/cover.svg",
+            "download": "/assets/books/book1/download.txt",
+            "summary": "/assets/books/book1/summary.txt"
+        },
         "tags": ["文学", "童话"],
-        "link": "https://zh.wikipedia.org/zh-cn/小王子"
+        "link": "/assets/books/book1/download.txt"
     },
     {
         "id": "book2",
@@ -16,8 +22,14 @@
         "desc": "计算机系统原理与实践，适合进阶读者。",
         "cover": "/assets/books/book2/cover.svg",
         "resourceFolder": "/assets/books/book2/",
+        "info": "/assets/books/book2/info.json",
+        "files": {
+            "cover": "/assets/books/book2/cover.svg",
+            "download": "/assets/books/book2/download.txt",
+            "summary": "/assets/books/book2/summary.txt"
+        },
         "tags": ["计算机", "教材"],
-        "link": "https://csapp.cs.cmu.edu/"
+        "link": "/assets/books/book2/download.txt"
     },
     {
         "id": "book3",
@@ -26,8 +38,14 @@
         "desc": "全面的 JavaScript 参考与实战指南。",
         "cover": "/assets/books/book3/cover.svg",
         "resourceFolder": "/assets/books/book3/",
+        "info": "/assets/books/book3/info.json",
+        "files": {
+            "cover": "/assets/books/book3/cover.svg",
+            "download": "/assets/books/book3/download.txt",
+            "summary": "/assets/books/book3/summary.txt"
+        },
         "tags": ["编程", "JavaScript"],
-        "link": "https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/"
+        "link": "/assets/books/book3/download.txt"
     },
     {
         "id": "book4",
@@ -36,7 +54,13 @@
         "desc": "中国当代小说经典，讲述普通人的命运。",
         "cover": "/assets/books/book4/cover.svg",
         "resourceFolder": "/assets/books/book4/",
+        "info": "/assets/books/book4/info.json",
+        "files": {
+            "cover": "/assets/books/book4/cover.svg",
+            "download": "/assets/books/book4/download.txt",
+            "summary": "/assets/books/book4/summary.txt"
+        },
         "tags": ["文学", "小说"],
-        "link": "https://zh.wikipedia.org/zh-cn/活着_(余华小说)"
+        "link": "/assets/books/book4/download.txt"
     }
 ]

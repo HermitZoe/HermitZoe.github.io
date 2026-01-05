@@ -1,0 +1,9 @@
+{
+    "id": "book4",
+    "title": "活着",
+    "author": "余华",
+    "desc": "中国当代小说经典，讲述普通人的命运。",
+    "tags": ["文学", "小说"],
+    "files": ["cover.svg", "summary.txt", "download.txt"],
+    "note": "示例资源，下载文件为占位文本。"
+}

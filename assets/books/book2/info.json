@@ -1,0 +1,9 @@
+{
+    "id": "book2",
+    "title": "深入理解计算机系统",
+    "author": "Randal E. Bryant & David R. O'Hallaron",
+    "desc": "计算机系统原理与实践，适合进阶读者。",
+    "tags": ["计算机", "教材"],
+    "files": ["cover.svg", "summary.txt", "download.txt"],
+    "note": "示例资源，下载文件为占位文本。"
+}
